@@ -1,7 +1,7 @@
 
 # Calculadora Estadística para Inferencia de Dos Poblaciones
 
-Este programa en Python ofrece una **Calculadora Estadística para Inferencia de Dos Poblaciones** con un menú interactivo. Permite a los usuarios calcular varios estadísticos de prueba para comparar dos poblaciones, incluyendo diferencias en medias, varianzas y proporciones.
+Este programa en Python ofrece una **Calculadora Estadística para Inferencia de Dos Poblaciones** con un menú interactivo. Permite a los usuarios calcular varios estadísticos de prueba para comparar dos poblaciones, incluyendo diferencias en medias, varianzas y proporciones. Estos estadísticos son útiles dentro de las pruebas de hipótesis.
 
 ## Funcionalidades
 
